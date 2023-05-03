@@ -1,0 +1,2 @@
+[Numero di pazienti] [Tempo di processamento paziente P0] [Tempo di processamento paziente P1] ... [Tempo di processamento paziente PN]
+[Numero di operatori]

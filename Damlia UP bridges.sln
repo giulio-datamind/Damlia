@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "01_Emergency", "Emergency\01_Emergency.pyproj", "{F847FEBF-AFD4-43AF-819F-548C459E0494}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "02_Post-emergency", "Post-emergency\02_Post-emergency.pyproj", "{BDE3D7B5-457C-46CA-A38E-22665F252BEF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "03_Daily-planning", "Daily-planning\03_Daily-planning.pyproj", "{023A1D27-F593-41D3-B5CA-E21193B996E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F847FEBF-AFD4-43AF-819F-548C459E0494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F847FEBF-AFD4-43AF-819F-548C459E0494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE3D7B5-457C-46CA-A38E-22665F252BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE3D7B5-457C-46CA-A38E-22665F252BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023A1D27-F593-41D3-B5CA-E21193B996E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023A1D27-F593-41D3-B5CA-E21193B996E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B7C1B9-758C-473F-AC6D-69AC4F4D1BA6}
+	EndGlobalSection
+EndGlobal
